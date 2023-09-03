@@ -3,7 +3,7 @@ export const projects = [
     title: "Household Inventory App",
     subtitle: "MERN Stack",
     description:
-      "An App for managing household inventory items e.g grociers & household products",
+      "An App for managing household inventory items e.g groceries & household products",
     image: "./project-1.gif",
     link: "https://github.com/Dillon2405/HouseApp",
   },
@@ -16,20 +16,20 @@ export const projects = [
     link: "https://github.com/Dillon2405/FCCPersonalSite",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "React Portfolio",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This Portfolio Page made using React",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Dillon2405/ReactPortfolio",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Product Landing Page",
+    subtitle: "HTML Product Page",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Product landing page made using HTML & CSS",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Dillon2405/FCCProductLandingPage",
   },
 ];
 
